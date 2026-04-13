@@ -49,3 +49,14 @@ a {
     color: white;
     font-size: 200%;
 }
+
+#gamewindow {
+    width: min-content;
+    height: min-content;
+    justify-self: center;
+    outline-color: rgb(161, 161, 161);
+    outline-width: 8px;
+    
+    outline-style:inset;
+
+}
